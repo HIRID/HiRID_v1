@@ -1,0 +1,4 @@
+ipykernel
+pandas
+pyarrow
+pyspark
