@@ -16,7 +16,7 @@ If you use HiRID in your work,  please cite the following paper
 
 - **Stephanie L. Hyland, Martin Faltys, Matthias Hüser, Xinrui Lyu, Thomas Gumbsch**, Cristóbal Esteban, Christian Bock, Max Horn, Michael Moor, Bastian Rieck, Marc Zimmermann, Dean Bodenham, **Karsten Borgwardt, Gunnar Rätsch, Tobias M. Merz**. Nature Medicine (2020).
 
-    DOI XXX. Available at XXX. Joined first and last authors are marked in bold font.
+    [https://doi.org/10.1038/s41591-020-0789-4](https://doi.org/10.1038/s41591-020-0789-4). Joint first and last authors are marked in bold font.
 
 # Contact
 
